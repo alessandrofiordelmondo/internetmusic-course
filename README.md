@@ -37,6 +37,7 @@ Best source for sound artist :arrow_right: **JavaScript for Sound Artist** by Wi
 Firebase available libraries => [libraries](https://firebase.google.com/docs/web/learn-more?authuser=0&hl=en#available-libraries)
 
 ** Important SDK V8 ** :arrow_down:
+
 **Firebase core library**: `<script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>`
 
 **Firebase database library**: `<script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-database.js"></script>`

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--FIREBASE CORE-->
+    <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>
+    <!--FIREBASE REALTIME DATABASE-->
+    <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-database.js"></script>
+    
+    <title>Firebase Test</title>
+</head>
+<body>
+    <p>WRITE LIGHT</p>
+    <button id="light-onoff" onclick="lightbutton()">ON</button>
+    <p>sensors</p>
+    <ul>
+        <li>TEMPERATURE <stem id="temp-stem"></stem></li>
+        <li>HUMIDITY <stem id="hum-stem"></stem></li>
+        <li>ACCELEROMETER</li>
+        <ul>
+            <li>X <stem id="ax-stem"></stem></li>
+            <li>Y <stem id="ay-stem"></stem></li>
+            <li>Z <stem id="az-stem"></stem></li>
+        </ul>
+        <li>MAGNETOMETER</li>
+        <ul>
+            <li>X <stem id="mx-stem"></stem></li>
+            <li>Y <stem id="my-stem"></stem></li>
+            <li>Z <stem id="mz-stem"></stem></li>
+        </ul>
+    </ul>
+    <script type="text/javascript" src="script.js"></script>
+</body>
+</html>
