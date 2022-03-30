@@ -1,6 +1,6 @@
 # Internet Art & Web Music Course
 ## Introduction to Internet Art practices and Web Music
-![SIMPLE NET ART DIAGRAMi - MTAA 1997](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ASimple_Net_Art_Diagram_-_non-animated_version.png&psig=AOvVaw3e99P5d_myitjboiGXRrVJ&ust=1648731963196000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCPjD76nz7fYCFQAAAAAdAAAAABAE)
+![SIMPLE NET ART DIAGRAMi - MTAA 1997](https://upload.wikimedia.org/wikipedia/commons/1/1c/Simple_Net_Art_Diagram_-_non-animated_version.png)
 
 [Net Art Antology](https://anthology.rhizome.org/)
 
