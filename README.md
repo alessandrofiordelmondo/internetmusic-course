@@ -12,10 +12,31 @@
 
 Web Development **Free tutorial** for beginner by [academind](https://pro.academind.com/) :arrow_right: [playlist](https://www.youtube.com/watch?v=NXG0ETguPsg)
 
+[W3school](https://www.w3schools.com/)
+
 ## Introduction to Web Audio API
 
-Best resource for sound artist :arrow_right: **JavaScript for Sound Artist** by William Turner
+Best source for sound artist :arrow_right: **JavaScript for Sound Artist** by William Turner
 
+[Web Audio API on W3C](https://www.w3.org/TR/webaudio/)
+
+[Web Audio API on MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
+
+
+## FOR THE COURSE
+
+#### Source-code Editor
+[Sublime Text](https://www.sublimetext.com/)
+
+### FIREBASE
+[Add Firebase project to your JavaScript project](https://firebase.google.com/docs/web/setup?authuser=0&hl=en)
+
+[Firebase Realtime Database](https://firebase.google.com/docs/database?authuser=0&hl=en)
+
+#### FIREBASE SDK V8 & Modular V9
 Firebase available libraries => [libraries](https://firebase.google.com/docs/web/learn-more?authuser=0&hl=en#available-libraries)
+
+** Important SDK V8 ** :arrow_down:
 **Firebase core library**: `<script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>`
+
 **Firebase database library**: `<script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-database.js"></script>`
